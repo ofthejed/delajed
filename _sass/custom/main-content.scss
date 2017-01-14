@@ -1,0 +1,42 @@
+section#main-content {
+  @include outer-container;
+  div.content {
+    @include span-columns(10 of 12);
+    @include shift(1);
+    margin-top: 16px;
+    @include media($tablet) {
+      @include shift(1);
+      @include span-columns(6 of 12);
+      margin-top: 96px;
+    }
+    @include media($laptop) {
+      @include span-columns(7 of 12);
+      margin-top: 64px;
+    }
+    p {
+      font-size: modular-scale(2);
+    }
+    span.brand {
+      font-family: "swingdancer", $base-font-family;
+      text-transform: lowercase;
+      font-size: modular-scale(2,1em);
+    }
+    h2 {
+      font-weight: 400;
+      font-size: modular-scale(4);
+    }
+    h3 {
+      font-size: modular-scale(2);
+    }
+    ul {
+      margin-left: 32px;
+      list-style-type: disc;
+      margin-bottom: $base-spacing;
+      > li {
+        font-size: modular-scale(2);
+        line-height: 1.25;
+        margin-bottom: 4px;
+      }
+    }
+  }
+}
