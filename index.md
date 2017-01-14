@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-Hi, my name is <span class="brand">Jed</span>. I make websites and design *things* that help people. Sometimes it's to help a new lawyer build their brand and digital presence. Other times it's to help a local citizen-activist make a difference in government. In the past, I've also helped government employees across different areas work more collaboratively. Currently, I spend most of my time helping college students, staff and faculty, share and find information, and accomplish tasks.
+Hi, my name is <span class="brand">Jed</span>. I make websites and design *things* that help people.
 
 ## What I can do
 
