@@ -12,8 +12,11 @@ section#contact {
       @include shift(4);
     }
     h1 {
-      font-size: modular-scale(8);
+      font-size: modular-scale(6);
       text-align: center;
+      @include media($laptop) {
+        font-size: modular-scale(8);
+      }
     }
     form {
       margin-bottom: 64px;;
