@@ -29,8 +29,15 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
 # theme: minima
-# gems:
-#   - jekyll-feed
 exclude:
-#   - Gemfile
-#   - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: Jed Dela Cruz
+      layout: "post"
+      permalink: /blog/:title
