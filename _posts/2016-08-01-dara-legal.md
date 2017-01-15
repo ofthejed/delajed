@@ -16,7 +16,7 @@ gallery:
 link: http://www.daralegal.com
 ---
 
-Dara Legal is a lawyer servicing the Greater Toronto Area in family law and civil litigation.
+DARA LEGAL is a lawyer servicing the Greater Toronto Area in family law and civil litigation.
 
 In Summer 2016, I worked with DARA LEGAL to create its brand, website and marketing materials to help establish itself as a new, and trusted resource for family law and civil litigation in the Greater Toronto Area.
 
