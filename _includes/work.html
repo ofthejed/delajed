@@ -1,5 +1,6 @@
 <section id="work">
   {% for post in site.posts %}
+    {% if post.url != page.url %}
     {% if post.category == "Work" %}
         <article>
           <a href="{{ post.url }}">
@@ -10,6 +11,7 @@
           </a>
         </article>
       {% else if %}
+    {% endif %}
     {% endif %}
    {% endfor %}
 </section>
