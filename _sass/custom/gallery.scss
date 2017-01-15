@@ -1,0 +1,17 @@
+section#gallery {
+  figure {
+    @include span-columns(10 of 12);
+    @include shift(1);
+    margin-top: 16px;
+    margin-bottom: 16px;
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin-bottom: 16px;
+      @include media($tablet) {
+        margin-bottom: 24px;
+      }
+    }
+  }
+}

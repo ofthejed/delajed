@@ -1,0 +1,54 @@
+section#work {
+  @include span-columns(10 of 12);
+  @include shift(1);
+  padding-top: 32px;
+  border-top: 1px solid $light-gray;
+  margin-bottom: 32px;
+  article {
+    margin-bottom: 24px;
+    @include media($tablet) {
+      @include span-columns(5 of 10);
+      @include omega(2n);
+    }
+    a {
+      display: block;
+      position: relative;
+      color: white;
+      border-bottom: 1px solid #61707D;
+      &:hover {
+        figure {
+          &:before {
+            background: rgba(0,0,0,.4);
+          }
+        }
+      }
+      h1 {
+        font-weight: 400;
+        position: absolute;
+        top: 16px;
+        left: 16px;
+        z-index: 2;
+      }
+      figure {
+        position: relative;
+        &:before {
+          content: "";
+          display: block;
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          -moz-transition: all .3s linear;
+          -webkit-transition: all .3s linear;
+          -ms-transition: all .3s linear;
+          -o-transition: all .3s linear;
+          transition: all .3s linear;
+        }
+        img {
+          display: block;
+        }
+      }
+    }
+  }
+}

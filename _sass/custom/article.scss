@@ -1,0 +1,38 @@
+article {
+  header {
+    margin-bottom: $small-spacing;
+    h1 {
+      font-size: modular-scale(6);
+      margin-bottom: 4px;
+      @include media($tablet) {
+        font-size: modular-scale(8);
+      }
+      @include media($laptop) {
+        font-size: modular-scale(10);
+      }
+    }
+    ul.tags {
+      color: #555;
+      margin-left: 0 !important;
+      > li {
+        list-style-type: none;
+        font-size: modular-scale(1) !important;
+      }
+    }
+  }
+  section {
+    p {
+      font-size: modular-scale(2);
+      &:first-child {
+        font-size: modular-scale(2,1em) !important;
+        text-align: left !important;
+        margin-bottom: $small-spacing !important;
+      }
+    }
+    a {
+      &:before {
+        content: '\2192\2002';
+      }
+    }
+  }
+}

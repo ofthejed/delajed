@@ -1,0 +1,7 @@
+<section id="gallery">
+  <figure>
+    {% for gallery in page.gallery %}
+      <img src="{{ gallery | join: ' ' }}">
+    {% endfor %}
+  </figure>
+</section>
