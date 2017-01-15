@@ -27,9 +27,12 @@ section#work {
       h1 {
         font-weight: 400;
         position: absolute;
-        top: 16px;
-        left: 16px;
+        top: 24px;
+        left: 24px;
         z-index: 2;
+        &:before {
+          content: '\2192\2002';
+        }
       }
       figure {
         position: relative;
