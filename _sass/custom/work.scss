@@ -3,7 +3,9 @@ section#work {
   @include shift(1);
   padding-top: 32px;
   border-top: 1px solid $light-gray;
+  border-bottom: 1px solid $light-gray;
   margin-bottom: 32px;
+  padding-bottom: 8px;
   article {
     margin-bottom: 24px;
     @include media($tablet) {
