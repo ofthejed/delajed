@@ -36,6 +36,20 @@ section#main-content {
         line-height: 1;
       }
     }
+    h1 {
+      font-size: modular-scale(6);
+      margin-bottom: 4px;
+      line-height: 1.1;
+      @include media($tablet) {
+        font-size: modular-scale(8);
+      }
+      @include media($laptop) {
+        font-size: modular-scale(10);
+      }
+    }
+    h2 {
+      font-size: modular-scale(4);
+    }
     h2 {
       font-weight: 400;
       font-size: modular-scale(4);
