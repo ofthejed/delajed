@@ -28,6 +28,7 @@ section#work {
     a {
       display: block;
       position: relative;
+      color: $dark-gray;
       //color: white;
       //border-bottom: 1px solid #61707D;
       &:hover {
@@ -40,6 +41,7 @@ section#work {
       h2 {
         font-weight: 400;
         margin-top: 12px;
+        font-weight: 700;
         // position: absolute;
         // top: 16px;
         // left: 16px;
