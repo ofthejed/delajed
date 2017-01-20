@@ -31,8 +31,12 @@ article {
     }
     a {
       font-weight: 700;
-      &:before {
-        content: '\2192\2002';
+      color: #bb3825;
+      &:hover {
+        color: darken(#bb3825,5%);
+      }
+      &:after {
+        content: ' \2192\2002';
       }
     }
   }
