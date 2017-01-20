@@ -18,6 +18,6 @@ link: http://www.humber.ca/today
 
 Humber Today is the source for the latest news and events at Humber College.
 
-In the Fall 2016, I was tasked with redesigning and redeveloping the website with a focus on simplifying the authoring experience, and improving article pages to support and properly present richer, more multimedia, content.
+In Fall 2016, I was tasked with redesigning and redeveloping the website with a focus on simplifying the authoring experience, and improving article pages to support and properly present richer, more multimedia, content.
 
 [Go to Humber Today](https://www.humber.ca/today)
