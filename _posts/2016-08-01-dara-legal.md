@@ -2,7 +2,6 @@
 layout: work
 title: "DARA LEGAL"
 permalink: work/dara-legal
-description: Dara Legal is a lawyer servicing the Greater Toronto Area in family law and civil litigation.
 category: Work
 image: /assets/img/dara-legal.jpg
 tags:
@@ -13,7 +12,6 @@ gallery:
   - /assets/img/dara-legal-01.jpg
   - /assets/img/dara-legal-02.jpg
   - /assets/img/dara-legal-03.jpg
-link: http://www.daralegal.com
 ---
 
 DARA LEGAL is a lawyer servicing the Greater Toronto Area in family law and civil litigation.

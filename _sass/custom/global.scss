@@ -1,3 +1,7 @@
 body {
   @include outer-container;
 }
+
+.wf-loading {
+  visibility: hidden
+}

@@ -2,10 +2,8 @@
 layout: work
 title: "Humber Today"
 permalink: work/humber-today
-description: Humber Today is the source for the latest news and events at Humber College.
 category: Work
 image: /assets/img/humber-today.jpg
-client: Humber College
 tags:
   - Web
   - Content strategy
@@ -13,7 +11,6 @@ gallery:
   - /assets/img/humber-today-01.jpg  
   - /assets/img/humber-today-02.jpg
   - /assets/img/humber-today-03.jpg  
-link: http://www.humber.ca/today
 ---
 
 Humber Today is the source for the latest news and events at Humber College.
