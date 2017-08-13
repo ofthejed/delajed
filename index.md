@@ -4,32 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-Hi, my name is <span class="brand">Jed</span>. I make websites and design *things* that help people.
+Hi, my name is <span class="brand">Jed</span>. I design and build websites at Humber College.
 
-## What I can do
+I’ve spent the past six years involved in nearly every aspect of the website-making process on projects large, small, and everything in-between.
 
-### Web design and development
+I work with code, pixels, and people. I’m a web generalist by trade, but a front-end designer by heart.
 
-Your website is a reflection of your brand. Whether you’re starting from scratch or redesigning an existing site, I can help make sure that its look, feel, and experience represents you and your brand at your best.
+This is where you’ll find my latest work and articles about things I’ve learned and find interesting in-and-out of the world of design and development.
 
-* Responsive and accessible design
-* HTML / PHP / CSS / JavaScript
-* CMS implementation
-* Performance optimization
-
-### Content strategy and creation
-
-Good content is at the foundation of good design and experience. I can help you establish a voice that reflects your brand, and a structure that allows for your audience to easily navigate and understand the story you’re telling.
-
-* Content maps
-* Information architecture
-* Creative writing and production
-* Wireframes
-
-### Marketing
-
-Your audience just doesn’t live on your website. I can help you expand your brand through other channels to strengthen your message, and reach more people.
-
-* Logo design
-* Email newsletters
-* Social media and print collateral
+I’m @delajed on Twitter, Instagram, and YouTube.
