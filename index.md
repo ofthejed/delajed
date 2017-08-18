@@ -12,4 +12,4 @@ I work with code, pixels, and people. I’m a web generalist by trade, but a fro
 
 This is where you’ll find my latest work and articles about things I’ve learned and find interesting in-and-out of the world of design and development.
 
-I’m @delajed on Twitter, Instagram, and YouTube.
+I’m @delajed on <a href="//twitter.com/delajed">Twitter</a>, <a href="//instagram.com/delajed">Instagram</a>, and <a href="//youtube.com/delajed">YouTube</a>.
