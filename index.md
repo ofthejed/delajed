@@ -10,6 +10,6 @@ I’ve spent the past six years involved in nearly every aspect of the website-m
 
 I work with code, pixels, and people. I’m a web generalist by trade, but a front-end designer by heart.
 
-This is where you’ll find my latest work and articles about things I’ve learned and find interesting in-and-out of the world of design and development.
+This is where you’ll find my latest work.
 
 I’m @delajed on <a href="//twitter.com/delajed">Twitter</a>, <a href="//instagram.com/delajed">Instagram</a>, and <a href="//youtube.com/delajed">YouTube</a>.
